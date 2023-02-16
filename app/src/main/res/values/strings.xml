@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="title_text">Trivia</string>
+    <string name="out_of_text">Question: 45/89</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_answer" >Correct!</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="placeholder">Hello world this is where we are going to add the actual text to be shown!</string>
+    <string name="text_formatted">Question: %d/%d</string>
+
+</resources>
